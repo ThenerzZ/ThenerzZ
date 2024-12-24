@@ -1,6 +1,6 @@
 # Welcome to ThenerzZ's GitHub! 👋💻
 
-![Profile Banner](https://imgur.com/a/MLhjHE2)
+![Profile Banner](https://i.imgur.com/TML60nZ.jpeg)
 
 Hello! I'm an enthusiastic developer with a keen interest in computer graphics, particularly in raytracing technologies. I'm currently harnessing Python to build a sophisticated raytracer, aiming to produce highly realistic images through detailed simulation of light behaviors.
 
