@@ -15,8 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![CUDA](https://img.shields.io/badge/-CUDA-black?style=flat-square&logo=nvidia)
 
 ## 📈 GitHub Stats
 
