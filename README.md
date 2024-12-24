@@ -1,30 +1,12 @@
-# Hello, World! I'm ThenerzZ 👋💻
-
+# Hello, World! I'm 
+ _____ _                              ______
+|_   _| |                            |___  /
+  | | | |__   ___ _ __   ___ _ __ ____  / / 
+  | | | '_ \ / _ \ '_ \ / _ \ '__|_  / / /  
+  | | | | | |  __/ | | |  __/ |   / /./ /___
+  \_/ |_| |_|\___|_| |_|\___|_|  /___\_____/
+                                                                                       
 🚀 Welcome to my GitHub profile! I'm currently deep into developing a raytracer using Python to explore the fascinating dynamics of light and shadows.
-       ____        _   _                 
-      |  _ \ _   _| |_| |_ ___  _ __     
-      | |_) | | | | __| __/ _ \| '_ \    
-      |  __/| |_| | |_| || (_) | | | |   
-      |_|    \__, |\__|\__\___/|_| |_|   
-             |___/                       
-
-                /^\/^\
-              _|__|  O|
-     \/     /~     \_/ \
-      \____|__________/  \
-             \_______      \
-                     `\     \                 \
-                       |     |                  \
-                      /      /                    \
-                     /     /                       \\       
-                   /      /                         \ \
-                  /     /                            \  \
-                /     /             _----_            \   \
-               /     /           _-~      ~-_         |   |
-              (      (        _-~    _--_    ~-_     _/   |
-               \      ~-____-~    _-~    ~-_    ~-_-~    /
-                 ~-_           _-~          ~-_       _-~
-                    ~--______-~                ~-___-~
 
 ## 🚀 About Me
 - 🎓 I specialize in Python, C++, and CUDA, and I'm an avid user of Arch Linux.
