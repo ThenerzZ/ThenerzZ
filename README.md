@@ -16,10 +16,6 @@ Hello! I'm an enthusiastic developer with a keen interest in computer graphics, 
 
 Building a performant raytracer focused on realistic lighting and shadow rendering.
 
-## 🛠️ Skills
-- <img src="https://yourlinktoicon.com/python-icon.png" width="20"> Python
-- <img src="https://yourlinktoicon.com/cpp-icon.png" width="20"> C++
-
 ## 📫 How to Reach Me
 - **Email:** `thenerz_lunix@proton.me`
 
