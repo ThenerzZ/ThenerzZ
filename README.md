@@ -11,8 +11,7 @@ Hello! I'm an enthusiastic developer with a keen interest in computer graphics, 
 - 🌱 I'm constantly learning and exploring new frontiers in computer graphics and real-time rendering.
 
 ## 🔧 Current Projects
-### Python Raytracer
-![Raytracer](https://github.com/ThenerzZ/python_raytracer)
+### rust-chess-engine
 
 Building a performant raytracer focused on realistic lighting and shadow rendering.
 
