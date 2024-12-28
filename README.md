@@ -13,7 +13,7 @@ Hello! I'm an enthusiastic developer with a keen interest in computer graphics, 
 ## 🔧 Current Projects
 ### rust-chess-engine
 
-Building a performant raytracer focused on realistic lighting and shadow rendering.
+Building a performant chess engine in pure rust!
 
 ## 📫 How to Reach Me
 - **Email:** `thenerz_lunix@proton.me`
