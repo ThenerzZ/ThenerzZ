@@ -1,25 +1,52 @@
-# Welcome to ThenerzZ's GitHub! 👋💻
+# Hi there! 👋
 
-Hello! I'm an enthusiastic developer with a keen interest in computer graphics, particularly in raytracing technologies. I'm currently harnessing Python to build a sophisticated raytracer, aiming to produce highly realistic images through detailed simulation of light behaviors.
+Welcome to my GitHub profile! I'm **ThenerzZ**, a hobby programmer who loves exploring and creating projects that pique my curiosity and challenge my skills. 🚀
 
-## 🚀 About Me
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+---
 
-- 🎓 I specialize in Python, C++, and CUDA, and I'm an avid user of Arch Linux.
-- 🌱 I'm constantly learning and exploring new frontiers in computer graphics and real-time rendering.
+## 🌟 About Me
 
-## 🔧 Current Projects
-### rust-chess-engine
+- **Languages**: Fluent in:
 
-Building a performant chess engine in pure rust!
+```plaintext
+Rust     ██████████ 100%
+Python   ██████████ 100%
+C++      ██████████ 100%
+C#       ██████████ 100%
+Vulkan   ██████░░░░ 60%
+CUDA     ██████░░░░ 60%
+```
 
-## 📫 How to Reach Me
-- **Email:** `thenerz_lunix@proton.me`
+- **Currently Learning**: Delving into **Vulkan** and **CUDA** to master high-performance computing and graphics programming.
+- **Interests**: I enjoy exploring fields like game development, artificial intelligence, and rendering technologies.
 
-## 🌟 Support
-Feel free to `⭐` my projects if you find them interesting or useful!
+---
 
-Thank you for visiting my profile! Enjoy exploring my work!
+## 📌 My Main Projects
+
+### ♟️ [Chess Engine (Rust)](https://github.com/ThenerzZ/chess-engine)
+
+This is my primary focus—a **chess engine** written in Rust. Combining my love for chess with my passion for programming, this project is aimed at delivering:
+
+- Advanced move evaluation algorithms
+- Optimized performance using Rust's systems-level capabilities
+- Plans for an intuitive GUI and AI enhancements in the future
+
+### 🌌 [Raytracer (Python)](https://github.com/ThenerzZ/raytracer)
+
+A **raytracer** built in Python, designed to make rendering concepts approachable and versatile. This project lets me explore the mathematics and artistry behind realistic rendering while leveraging Python's simplicity.
+
+---
+
+## 🔧 Other Projects
+
+I frequently tinker with various projects that catch my interest. Check out my [repositories](https://github.com/ThenerzZ?tab=repositories) to find tools, experiments, and open-source contributions.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and reach out if you have questions, ideas, or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts!
+
+**Happy coding!** 💻
 
